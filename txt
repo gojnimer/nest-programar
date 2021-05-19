@@ -1,1 +1,0 @@
-mongodb+srv://gojnimer:gui1476553@gojnimer.vyrga.mongodb.net/programar?retryWrites=true&w=majority
